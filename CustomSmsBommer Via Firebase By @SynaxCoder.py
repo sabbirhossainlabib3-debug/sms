@@ -135,12 +135,12 @@ def default_reply_keyboard() -> ReplyKeyboardMarkup:
         is_persistent=True
     )
 
-MAIN_OWNER = 8363262755
-SUPER_ADMIN_NAME = "@SynaxBaby"
-SUPER_ADMIN_LINK = "https://t.me/SynaxBaby"
-SUPER_ADMINS = [8363262755]
+MAIN_OWNER = 8243402862
+SUPER_ADMIN_NAME = "@EREN_RYVEN"
+SUPER_ADMIN_LINK = "https://t.me/aboutryven"
+SUPER_ADMINS = [8243402862]
 
-BOT_TOKEN = "BOT_TOKEN"
+BOT_TOKEN = "9256970155:AAHVpu02KG5OULhfnpQELfJD_WEnQM10axg"
 LOG_CHANNEL_ID = -100--
 
 _DATA_FILE = "blast_data.json"
